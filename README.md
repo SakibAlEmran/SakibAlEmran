@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sakib Al Emran
 - 👀 I’m interested in software development especially in the back-end. 
-- 🌱 I’m currently learning and working on NodeJs, Express Js and Mongodb.
+- 🌱 I’m currently learning and working on NodeJs, ExpressJs, React and Mongodb.
 
 - 📫 Contact: Email: sakib.imran0909@gmail.com 
 
