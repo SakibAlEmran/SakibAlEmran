@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Sakib Al Emran
-- 👀 I’m interested in software development especially in the back-end. 
-- 🌱 I’m currently learning and working on NodeJs, ExpressJs, React and Mongodb.
-
-- 📫 Contact: Email: sakib.imran0909@gmail.com 
+-  Hi, I’m Sakib Al Emran
+-  Contact: Email: sakib.imran0909@gmail.com 
 
 <!---
 SakibAlEmran/SakibAlEmran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
